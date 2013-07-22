@@ -1,0 +1,17 @@
+#player1_strip .active {
+  background-color: blue; 
+  height: 25px;
+  width: 25px;
+}
+
+#player2_strip .active {
+  background-color: red; 
+  height: 25px;
+  width: 25px;
+}
+
+td {
+  height: 25px;
+  width: 25px;
+  border: 1px solid black;
+}
